@@ -2,7 +2,8 @@
 Building a modern data warehouse with SQL server . including ETL processes , data modeling and analytics . 
 # SQL Data Warehouse Project
 
-Here’s a well-structured **Markdown documentation** draft for your SQL project based on the **Medallion Data Warehouse Architecture** with **CRM** and **ERP datasets**:
+Got it ✅
+Here’s the updated **Markdown file** with **MIT License section** and an **About Me** section (as a learning Data Analyst & Data Scientist):
 
 ---
 
@@ -121,6 +122,45 @@ flowchart TD
 * **Data Quality:** Errors fixed in Silver ensure reliable Gold data.
 * **Flexibility:** Analysts can query Bronze for raw exploration or Gold for insights.
 * **Auditability:** Bronze acts as a backup for reprocessing.
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I’m a **learning Data Analyst and aspiring Data Scientist**.
+
+* I enjoy working with **SQL, Python, and Data Warehousing concepts**.
+* My focus is on **building scalable data pipelines, analytics solutions, and dashboards**.
+* This project is part of my journey to **master data engineering + analytics** and apply these skills in real-world business cases.
+
+---
+
+## 📜 License (MIT)
+
+```
+MIT License
+
+Copyright (c) 2025 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 
 ---
 

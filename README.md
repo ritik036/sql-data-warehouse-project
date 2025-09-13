@@ -163,5 +163,5 @@ SOFTWARE.
 
 
 ---
-
+## i am grateful for Sir. Baraa ( youtube channel : data with baraa ) for guiding me through whole depth of SQL and giving me practical hands on experience for real world implementation of this knowledge . 
 
